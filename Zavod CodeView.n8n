@@ -1,0 +1,71 @@
+{
+  "updatedAt": "2026-02-07T22:18:19.067Z",
+  "createdAt": "2026-02-07T22:14:00.282Z",
+  "id": "FcZNeo6esjEQJpgX",
+  "name": "Untitled-1770502391509",
+  "description": null,
+  "active": false,
+  "isArchived": false,
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false
+  },
+  "staticData": null,
+  "meta": null,
+  "pinData": {},
+  "versionId": "a12389b0-10ff-4408-8dc4-c73fefcfbb26",
+  "activeVersionId": null,
+  "versionCounter": 8,
+  "triggerCount": 0,
+  "shared": [
+    {
+      "updatedAt": "2026-02-07T22:14:00.282Z",
+      "createdAt": "2026-02-07T22:14:00.282Z",
+      "role": "workflow:owner",
+      "workflowId": "FcZNeo6esjEQJpgX",
+      "projectId": "FSxvqPYANgSB4duE",
+      "project": {
+        "updatedAt": "2026-01-20T13:36:06.345Z",
+        "createdAt": "2026-01-20T13:35:49.365Z",
+        "id": "FSxvqPYANgSB4duE",
+        "name": "Admin Admin <a.korbut72@gmail.com>",
+        "type": "personal",
+        "icon": null,
+        "description": null,
+        "creatorId": "60e49d03-a608-46cc-8829-f6d7923deeed",
+        "projectRelations": [
+          {
+            "updatedAt": "2026-01-20T13:35:49.365Z",
+            "createdAt": "2026-01-20T13:35:49.365Z",
+            "userId": "60e49d03-a608-46cc-8829-f6d7923deeed",
+            "projectId": "FSxvqPYANgSB4duE",
+            "user": {
+              "updatedAt": "2026-02-07T21:04:01.819Z",
+              "createdAt": "2026-01-20T13:35:48.182Z",
+              "id": "60e49d03-a608-46cc-8829-f6d7923deeed",
+              "email": "a.korbut72@gmail.com",
+              "firstName": "Admin",
+              "lastName": "Admin",
+              "personalizationAnswers": null,
+              "settings": {
+                "userActivated": false,
+                "easyAIWorkflowOnboarded": true,
+                "dismissedCallouts": {
+                  "aiAgentStarterCallout": true
+                }
+              },
+              "disabled": false,
+              "mfaEnabled": false,
+              "lastActiveAt": "2026-02-07",
+              "isPending": false
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "tags": [],
+  "activeVersion": null
+}
