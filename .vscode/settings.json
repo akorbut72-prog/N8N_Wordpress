@@ -1,0 +1,8 @@
+{
+    "n8n.host": "https://erp-home.store",
+    "n8n.apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MGU0OWQwMy1hNjA4LTQ2Y2MtODgyOS1mNmQ3OTIzZGVlZWQiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzcwNTAxNzgzLCJleHAiOjE3NzgyNzQwMDB9.-zeE9vCID1EvLskRKZWU7eLK0WEYL3AjZSb6K4tQQjw",
+    "n8n.syncFolder": "workflows",
+    "n8n.syncMode": "auto",
+    "n8n.projectId": "FSxvqPYANgSB4duE",
+    "n8n.projectName": "Personal"
+}
